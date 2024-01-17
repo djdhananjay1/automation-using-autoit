@@ -46,5 +46,3 @@ If you would like to contribute to this project, please follow the guidelines in
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Remember to replace placeholders such as `your-username` with your actual GitHub username and customize the sections as per your project's specifics. Additionally, include any additional sections or information that might be relevant to your users.
