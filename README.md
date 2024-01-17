@@ -47,3 +47,38 @@ If you would like to contribute to this project, please follow the guidelines in
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+# ☕ Buy Me a Coffee
+
+If you find my work helpful or enjoy using my projects, consider supporting me by buying me a coffee. Your support helps me continue creating and maintaining open-source projects.
+
+<a href="https://www.buymeacoffee.com/your-username" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+
+## Why Support?
+
+Maintaining and developing projects take time and effort. Your support enables me to dedicate more time to creating quality content, fixing bugs, and adding new features.
+
+## How It Works
+
+1. Click on the "Buy me a coffee" button above.
+2. You'll be redirected to my Buy Me a Coffee page.
+3. Choose the number of coffees you want to buy (you can also set a custom amount).
+4. Complete the transaction securely.
+
+Thank you for your support! Every coffee is greatly appreciated.
+
+## Supporters Wall
+
+A big shoutout to the amazing people who have supported me by buying me a coffee! 🙌
+
+- [Supporter 1](#) - Thank you for the support!
+- [Supporter 2](#) - Your generosity is truly appreciated!
+
+If you'd like to be featured on this wall, include a message when you buy me a coffee, and I'll add your name here.
+
+---
+
+**Note**: Buying me a coffee is a one-time gesture. If you'd like to support me continuously, consider becoming a [Patreon](https://www.patreon.com/) or [GitHub Sponsor](https://github.com/sponsors)!
+
+Thank you for supporting my work! ❤️
