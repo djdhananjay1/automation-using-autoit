@@ -74,8 +74,6 @@ Thank you for your support! Every coffee is greatly appreciated.
 
 A big shoutout to the amazing people who have supported me by buying me a coffee! 🙌
 
-- [Chitranjan Kumar](#) - Thank you for the support!
-- [Denish Galiyawala](#) - Your generosity is truly appreciated!
 
 If you'd like to be featured on this wall, include a message when you buy me a coffee, and I'll add your name here.
 
