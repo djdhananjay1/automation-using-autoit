@@ -53,8 +53,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you find my work helpful or enjoy using my projects, consider supporting me by buying me a coffee. Your support helps me continue creating and maintaining open-source projects.
 
-<a href="https://www.paypal.me/DhananjayNidhonkar" target="_blank">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+<a href="https://paypal.me/DhananjayNidhonkar?country.x=IN&locale.x=en_GB" target="_blank">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" style="width: 150px; height: auto;">
 </a>
 
 
@@ -64,7 +64,7 @@ Maintaining and developing projects take time and effort. Your support enables m
 
 ## How It Works
 
-1. Click on the "Buy me a coffee" button above.
+1. Click on the "Donate" button above.
 2. You'll be redirected to my Buy Me a Coffee page.
 3. Choose the number of coffees you want to buy (you can also set a custom amount).
 4. Complete the transaction securely.
