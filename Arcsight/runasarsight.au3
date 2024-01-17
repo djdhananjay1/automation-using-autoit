@@ -1,12 +1,12 @@
+#cs ----------------------------------------------------------------------------
 
-;============================================================
-;             BeyondTrust Generic WebLogin
-;             ------------------------------
-; Created : May 2018
-; Last Updated: 24th May 2018
-; Written for Run As
-; Creator: PSE BeyondTrust Inc.
-;============================================================
+ AutoIt Version: 3.3.16.0
+ Author:        Dhananjay Nidhonkar
+
+ Script Function:
+	ArcSight Admin Console 7.2.1.2648.0 script
+
+#ce ----------------------------------------------------------------------------
 
 Opt("WinDetectHiddenText", 1)
 
