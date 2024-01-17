@@ -1,4 +1,5 @@
 # Automation with AutoIt (au3) Scripts
+# This can used with PAM products such as BeyondTrust,CyberArk etc.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
