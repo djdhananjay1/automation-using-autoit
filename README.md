@@ -65,9 +65,8 @@ Maintaining and developing projects take time and effort. Your support enables m
 ## How It Works
 
 1. Click on the "Donate" button above.
-2. You'll be redirected to my Buy Me a Coffee page.
-3. Choose the number of coffees you want to buy (you can also set a custom amount).
-4. Complete the transaction securely.
+2. You'll be redirected to my Paypal page.
+3. Complete the transaction securely.
 
 Thank you for your support! Every coffee is greatly appreciated.
 
@@ -75,13 +74,13 @@ Thank you for your support! Every coffee is greatly appreciated.
 
 A big shoutout to the amazing people who have supported me by buying me a coffee! 🙌
 
-- [Supporter 1](#) - Thank you for the support!
-- [Supporter 2](#) - Your generosity is truly appreciated!
+- [Chitranjan Kumar](#) - Thank you for the support!
+- [Denish Galiyawala](#) - Your generosity is truly appreciated!
 
 If you'd like to be featured on this wall, include a message when you buy me a coffee, and I'll add your name here.
 
 ---
 
-**Note**: Buying me a coffee is a one-time gesture. If you'd like to support me continuously, consider becoming a [Patreon](https://www.patreon.com/) or [GitHub Sponsor](https://github.com/sponsors)!
+**Note**: Buying me a coffee is a one-time gesture. If you'd like to support me continuously, consider becoming a [GitHub Sponsor](https://github.com/sponsors)!
 
 Thank you for supporting my work! ❤️
