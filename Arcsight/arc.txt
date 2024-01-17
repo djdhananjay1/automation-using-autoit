@@ -1,0 +1,6 @@
+If ($hWnd = WinGetHandle($title)) Then
+		Sleep(500)
+		ControlSend($username,"{Tab}",$password,"{Enter}")
+
+
+	EndIf
