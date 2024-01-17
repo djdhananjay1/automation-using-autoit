@@ -53,7 +53,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you find my work helpful or enjoy using my projects, consider supporting me by buying me a coffee. Your support helps me continue creating and maintaining open-source projects.
 
-<a href="https://www.buymeacoffee.com/your-username" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.paypal.me/DhananjayNidhonkar" target="_blank">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+</a>
+
 
 ## Why Support?
 
