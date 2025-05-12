@@ -1,0 +1,7 @@
+SSMS(Domain Authentication)
+C:\BeyondTrust\ps_RunAs.exe
+"C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Ssms.exe" "Microsoft SQL Server Management Studio" %u domain %p Y Y
+
+Ssms(Local/DB Authentication)
+"C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Ssms.exe"
+-s %h -d %d -u %u -p %p
